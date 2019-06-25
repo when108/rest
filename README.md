@@ -1,4 +1,4 @@
-# Resporants
+# Rest
 
 > My phenomenal Nuxt.js project
 
