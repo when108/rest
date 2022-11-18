@@ -14,7 +14,7 @@
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/vuetify": "0.5.5",
     "axios": "^0.19.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "zomato-api": "^0.1.2"
   },
   "devDependencies": {
